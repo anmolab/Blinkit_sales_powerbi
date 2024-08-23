@@ -1,6 +1,6 @@
 # Blinkit_sales_powerbi
 
-![Blinkit Dashboard](./image.png)
+![Blinkit Dashboard](./Dashboard.png)
 
 ## Project Overview
 
