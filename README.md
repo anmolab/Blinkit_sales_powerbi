@@ -1,4 +1,4 @@
-# Blinkit_sales_powerbi
+# Blinkit Dashboard Analysis
 
 ![Blinkit Dashboard](./Dashboard.png)
 
